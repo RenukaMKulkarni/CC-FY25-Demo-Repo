@@ -4,5 +4,8 @@ Greetings, Welcome to Session.
 Added a function Feature2(){
 
 //Do something here to implement Feature2.
+//One line added here to fix bug1.
 
 }
+
+Bug1 is fixed with this new line.
