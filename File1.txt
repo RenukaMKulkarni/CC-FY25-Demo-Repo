@@ -1,2 +1,8 @@
 Hello World!
 Greetings, Welcome to Session.
+
+Added a function Feature2(){
+
+//Do something here to implement Feature2.
+
+}
